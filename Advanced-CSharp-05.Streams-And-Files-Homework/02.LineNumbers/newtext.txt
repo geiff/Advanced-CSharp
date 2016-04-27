@@ -1,0 +1,5 @@
+1. Write a program that reads 
+2. a text file and inserts line 
+3. numbers in front of each of its lines. 
+4. The result should be written to another text file. 
+5. Use StreamReader in combination with StreamWriter.

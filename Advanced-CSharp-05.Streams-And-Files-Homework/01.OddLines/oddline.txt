@@ -1,0 +1,11 @@
+This document defines 
+the homework assignments 
+from the "Advanced C#" Course
+@ Software University. Please submit 
+as homework a single zip / rar / 7z 
+archive holding the solutions (source code) 
+of all below described problems. The solutions should be written in C#.
+Problem 1. Odd Lines
+Write a program that reads a text 
+file and prints on the console its odd lines. 
+Line numbers starts from 0. Use StreamReader.
