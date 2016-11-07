@@ -1,9 +1,0 @@
-C:\Users\hp250\Desktop\CalvertFormulaWorkSheet\CalvertFormulaWorkSheet\bin\Debug\CalvertFormulaWorkSheet.exe.config
-C:\Users\hp250\Desktop\CalvertFormulaWorkSheet\CalvertFormulaWorkSheet\bin\Debug\CalvertFormulaWorkSheet.exe
-C:\Users\hp250\Desktop\CalvertFormulaWorkSheet\CalvertFormulaWorkSheet\bin\Debug\CalvertFormulaWorkSheet.pdb
-C:\Users\hp250\Desktop\CalvertFormulaWorkSheet\CalvertFormulaWorkSheet\obj\Debug\CalvertFormulaWorkSheet.csprojResolveAssemblyReference.cache
-C:\Users\hp250\Desktop\CalvertFormulaWorkSheet\CalvertFormulaWorkSheet\obj\Debug\CalvertFormulaWorkSheet.Form1.resources
-C:\Users\hp250\Desktop\CalvertFormulaWorkSheet\CalvertFormulaWorkSheet\obj\Debug\CalvertFormulaWorkSheet.Properties.Resources.resources
-C:\Users\hp250\Desktop\CalvertFormulaWorkSheet\CalvertFormulaWorkSheet\obj\Debug\CalvertFormulaWorkSheet.csproj.GenerateResource.Cache
-C:\Users\hp250\Desktop\CalvertFormulaWorkSheet\CalvertFormulaWorkSheet\obj\Debug\CalvertFormulaWorkSheet.exe
-C:\Users\hp250\Desktop\CalvertFormulaWorkSheet\CalvertFormulaWorkSheet\obj\Debug\CalvertFormulaWorkSheet.pdb

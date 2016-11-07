@@ -1,8 +1,0 @@
-C:\Users\hp250\Desktop\CalvertFormulaWorkSheet\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
-C:\Users\hp250\Desktop\CalvertFormulaWorkSheet\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
-C:\Users\hp250\Desktop\CalvertFormulaWorkSheet\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
-C:\Users\hp250\Desktop\CalvertFormulaWorkSheet\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
-C:\Users\hp250\Desktop\CalvertFormulaWorkSheet\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
-C:\Users\hp250\Desktop\CalvertFormulaWorkSheet\ConsoleApplication1\bin\Debug\CalvertFormulaWorkSheet.exe
-C:\Users\hp250\Desktop\CalvertFormulaWorkSheet\ConsoleApplication1\bin\Debug\CalvertFormulaWorkSheet.pdb
-C:\Users\hp250\Desktop\CalvertFormulaWorkSheet\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
