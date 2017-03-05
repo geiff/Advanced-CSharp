@@ -1,0 +1,15 @@
+C:\Users\hp250\Desktop\BPM\ConsoleApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\hp250\Desktop\BPM\ConsoleApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\hp250\Desktop\BPM\ConsoleApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\hp250\Desktop\BPM\ConsoleApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.dll
+C:\Users\hp250\Desktop\BPM\ConsoleApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hp250\Desktop\BPM\ConsoleApplication1\WindowsFormsApplication1\bin\Debug\MySql.Data.dll
+C:\Users\hp250\Desktop\BPM\ConsoleApplication1\WindowsFormsApplication1\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\hp250\Desktop\BPM\ConsoleApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.xml
+C:\Users\hp250\Desktop\BPM\ConsoleApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hp250\Desktop\BPM\ConsoleApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\hp250\Desktop\BPM\ConsoleApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\hp250\Desktop\BPM\ConsoleApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\hp250\Desktop\BPM\ConsoleApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\hp250\Desktop\BPM\ConsoleApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\hp250\Desktop\BPM\ConsoleApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
